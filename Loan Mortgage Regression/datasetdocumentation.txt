@@ -1,7 +1,7 @@
 B. Baesens, D. Roesch, H. Scheule, Credit Risk Analytics: Measurement Techniques, Applications and Examples in SAS, Wiley,
 
 
-Data Set HMEQ
+Data Set HMEQ :
 The data set HMEQ reports characteristics and delinquency information for 5,960 home equity loans. A home equity loan is a loan where the obligor uses the equity of his or her home as the underlying collateral. The data set has the following characteristics:
 ◾ BAD: 1 = applicant defaulted on loan or seriously delinquent; 0 = applicant paid loan
 ◾ LOAN: Amount of the loan request
